@@ -1,0 +1,38 @@
+/* @import url('../node_modules/bootstrap/dist/css/bootstrap.min.css'); */
+
+.formRow {
+    width: 70%;
+    margin-left: 16%;
+  }
+  
+  .validationCard {
+    background-color:rgb(211,227,253);
+    border-radius: 10px;
+  }
+  
+  .selectValue {
+    padding: 8px 560px 16px 13px;
+    border-radius: 8px;
+    border-color: #cdc9c9;
+    width: 100%;
+  }
+  .selectValue2 {
+    padding: 8px 70px 16px 13px;
+    border-radius: 4px;
+    border-color: #cdc9c9;
+  }
+  .selectValue3 {
+    padding: 8px 80px 16px 13px;
+    border-radius: 4px;
+    border-color: #cdc9c9;
+  }
+  .selectValue4 {
+    padding: 8px 80px 16px 13px;
+    border-radius: 4px;
+    border-color: #cdc9c9;
+  }
+  
+  .homeBar {
+    padding: 10px 0;
+    background-color: #e8ebe2;
+  }
